@@ -22,4 +22,5 @@ Explicação:
 Sendo n = 5, precisamos somar os 4 números de v que resultem na menor soma possível, e os 4 números de v que resultem na maior soma possível: 
 
    -3 + 2 + 4 + 7 = 10
+   
     2 + 4 + 7 + 8 = 21
